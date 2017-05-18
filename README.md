@@ -19,7 +19,8 @@ git clone https://github.com/wsuen/Webscraping-Workshop-ACTW.git
 cd notebooks
 
 #Run jupyter notebook. This should open a browser tab with access to demo notebook.
-jupyter notebook```
+jupyter notebooki
+```
 
 ### Troubleshooting
 
